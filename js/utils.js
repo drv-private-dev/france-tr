@@ -22,7 +22,8 @@ export function validateSchema(obj) {
         obj[key].forEach((q, idx) => {
           if (!q.Question) errors.push(`${key}[${idx}].Question missing`);
           if (!q.Hint) errors.push(`${key}[${idx}].Hint missing`);
-          if (typeof q.Answer === "undefined") errors.push(`${key}[${idx}].Answer missing`);
+          if (typeof q.Answer === "undefined")
+            errors.push(`${key}[${idx}].Answer missing`);
         });
       }
     }
@@ -39,10 +40,21 @@ export function validateSchema(obj) {
  * @param {boolean} [options.allowNormalization=false]
  * @returns {boolean}
  */
-export function checkAnswer(expected, actual, options = { allowNormalization: false }) {
+export function checkAnswer(
+  expected,
+  actual,
+  options = { allowNormalization: true }
+) {
+  const removeDiacritics = (str) => {
+    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  };
+
   if (options.allowNormalization) {
-    return expected.trim().toLowerCase() === actual.trim().toLowerCase();
+    const normalizedExpected = removeDiacritics(expected.trim().toLowerCase());
+    const normalizedActual = removeDiacritics(actual.trim().toLowerCase());
+    return normalizedExpected === normalizedActual;
   }
+
   return expected === actual;
 }
 
