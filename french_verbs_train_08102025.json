@@ -1,0 +1,244 @@
+{
+  "Part": [
+    {
+      "Question": "Tu [_____] (répondre) à la question du professeur ?",
+      "Hint": "as répondu — Ти відповів(ла) на запитання вчителя?",
+      "Answer": "as répondu"
+    },
+    {
+      "Question": "Il [_____] (répondre) toujours très vite.",
+      "Hint": "répond — Він завжди відповідає дуже швидко.",
+      "Answer": "répond"
+    },
+    {
+      "Question": "Nous [_____] (répondre) au message hier soir.",
+      "Hint": "avons répondu — Ми відповіли на повідомлення вчора ввечері.",
+      "Answer": "avons répondu"
+    },
+    {
+      "Question": "Elles [_____] (répondre) à l’e-mail de leur amie.",
+      "Hint": "ont répondu — Вони відповіли на лист подруги.",
+      "Answer": "ont répondu"
+    },
+    {
+      "Question": "Tu ne [_____] (répondre) jamais au téléphone !",
+      "Hint": "réponds — Ти ніколи не відповідаєш на телефон!",
+      "Answer": "réponds"
+    },
+    {
+      "Question": "Je [_____] (répondre) au client ce matin.",
+      "Hint": "ai répondu — Я відповів(ла) клієнту сьогодні вранці.",
+      "Answer": "ai répondu"
+    },
+    {
+      "Question": "Vous [_____] (répondre) à toutes les questions ?",
+      "Hint": "avez répondu — Ви відповіли на всі запитання?",
+      "Answer": "avez répondu"
+    },
+    {
+      "Question": "Il [_____] (répondre) souvent trop vite.",
+      "Hint": "répond — Він часто відповідає надто швидко.",
+      "Answer": "répond"
+    },
+    {
+      "Question": "Elles [_____] (répondre) correctement à l’examen.",
+      "Hint": "ont répondu — Вони правильно відповіли на іспиті.",
+      "Answer": "ont répondu"
+    },
+    {
+      "Question": "Je [_____] (répondre) à ton message maintenant.",
+      "Hint": "réponds — Я відповідаю на твоє повідомлення зараз.",
+      "Answer": "réponds"
+    },
+    {
+      "Question": "Vous [_____] (répondre) tard hier ?",
+      "Hint": "avez répondu — Ви відповіли пізно вчора?",
+      "Answer": "avez répondu"
+    },
+    {
+      "Question": "Nous [_____] (répondre) à toutes les lettres.",
+      "Hint": "répondons — Ми відповідаємо на всі листи.",
+      "Answer": "répondons"
+    },
+    {
+      "Question": "Tu [_____] (attendre) le bus longtemps ?",
+      "Hint": "as attendu — Ти довго чекав(ла) автобус?",
+      "Answer": "as attendu"
+    },
+    {
+      "Question": "Je [_____] (attendre) mes amis au café.",
+      "Hint": "attends — Я чекаю на своїх друзів у кафе.",
+      "Answer": "attends"
+    },
+    {
+      "Question": "Ils [_____] (attendre) Marie hier soir.",
+      "Hint": "ont attendu — Вони чекали Марі вчора ввечері.",
+      "Answer": "ont attendu"
+    },
+    {
+      "Question": "Nous [_____] (attendre) longtemps avant le film.",
+      "Hint": "avons attendu — Ми довго чекали перед фільмом.",
+      "Answer": "avons attendu"
+    },
+    {
+      "Question": "Elle [_____] (attendre) son frère à la gare.",
+      "Hint": "attend — Вона чекає на свого брата на вокзалі.",
+      "Answer": "attend"
+    },
+    {
+      "Question": "Vous [_____] (attendre) quelqu’un ?",
+      "Hint": "attendez — Ви когось чекаєте?",
+      "Answer": "attendez"
+    },
+    {
+      "Question": "Ils [_____] (attendre) le train ensemble.",
+      "Hint": "attendent — Вони чекають потяг разом.",
+      "Answer": "attendent"
+    },
+    {
+      "Question": "Tu [_____] (attendre) longtemps hier matin ?",
+      "Hint": "as attendu — Ти довго чекав(ла) вчора вранці?",
+      "Answer": "as attendu"
+    },
+    {
+      "Question": "Je [_____] (attendre) mon tour calmement.",
+      "Hint": "attends — Я спокійно чекаю своєї черги.",
+      "Answer": "attends"
+    },
+    {
+      "Question": "Nous [_____] (attendre) la réponse du professeur.",
+      "Hint": "attendons — Ми чекаємо відповіді від учителя.",
+      "Answer": "attendons"
+    },
+    {
+      "Question": "Elles [_____] (attendre) sous la pluie.",
+      "Hint": "ont attendu — Вони чекали під дощем.",
+      "Answer": "ont attendu"
+    },
+    {
+      "Question": "Il [_____] (attendre) encore un peu.",
+      "Hint": "attend — Він ще трохи чекає.",
+      "Answer": "attend"
+    },
+    {
+      "Question": "Tu [_____] (vouloir) un café ?",
+      "Hint": "veux — Ти хочеш каву?",
+      "Answer": "veux"
+    },
+    {
+      "Question": "Il [_____] (vouloir) venir hier, mais il était fatigué.",
+      "Hint": "a voulu — Він хотів прийти вчора, але був втомлений.",
+      "Answer": "a voulu"
+    },
+    {
+      "Question": "Je [_____] (vouloir) apprendre le français.",
+      "Hint": "veux — Я хочу вивчати французьку.",
+      "Answer": "veux"
+    },
+    {
+      "Question": "Nous [_____] (vouloir) une table pour deux, s’il vous plaît.",
+      "Hint": "voulons — Ми хочемо столик на двох, будь ласка.",
+      "Answer": "voulons"
+    },
+    {
+      "Question": "Vous [_____] (vouloir) regarder un film ce soir ?",
+      "Hint": "voulez — Ви хочете подивитися фільм сьогодні ввечері?",
+      "Answer": "voulez"
+    },
+    {
+      "Question": "Elles [_____] (vouloir) sortir hier soir.",
+      "Hint": "ont voulu — Вони хотіли вийти вчора ввечері.",
+      "Answer": "ont voulu"
+    },
+    {
+      "Question": "Tu [_____] (vouloir) de l’eau ?",
+      "Hint": "veux — Ти хочеш води?",
+      "Answer": "veux"
+    },
+    {
+      "Question": "Je [_____] (vouloir) dire quelque chose.",
+      "Hint": "veux — Я хочу щось сказати.",
+      "Answer": "veux"
+    },
+    {
+      "Question": "Nous [_____] (vouloir) aider nos amis.",
+      "Hint": "voulons — Ми хочемо допомогти нашим друзям.",
+      "Answer": "voulons"
+    },
+    {
+      "Question": "Ils [_____] (vouloir) apprendre à cuisiner.",
+      "Hint": "veulent — Вони хочуть навчитися готувати.",
+      "Answer": "veulent"
+    },
+    {
+      "Question": "Elle [_____] (vouloir) un gâteau au chocolat.",
+      "Hint": "veut — Вона хоче шоколадний торт.",
+      "Answer": "veut"
+    },
+    {
+      "Question": "Vous [_____] (vouloir) partir en vacances ?",
+      "Hint": "voulez — Ви хочете поїхати у відпустку?",
+      "Answer": "voulez"
+    },
+    {
+      "Question": "Je [_____] (pouvoir) venir demain.",
+      "Hint": "peux — Я можу прийти завтра.",
+      "Answer": "peux"
+    },
+    {
+      "Question": "Tu [_____] (pouvoir) m’aider, s’il te plaît ?",
+      "Hint": "peux — Ти можеш мені допомогти, будь ласка?",
+      "Answer": "peux"
+    },
+    {
+      "Question": "Il [_____] (pouvoir) finir son travail hier.",
+      "Hint": "a pu — Він зміг закінчити свою роботу вчора.",
+      "Answer": "a pu"
+    },
+    {
+      "Question": "Nous [_____] (pouvoir) visiter le musée.",
+      "Hint": "pouvons — Ми можемо відвідати музей.",
+      "Answer": "pouvons"
+    },
+    {
+      "Question": "Vous [_____] (pouvoir) parler plus lentement ?",
+      "Hint": "pouvez — Ви можете говорити повільніше?",
+      "Answer": "pouvez"
+    },
+    {
+      "Question": "Elles [_____] (pouvoir) venir hier soir.",
+      "Hint": "ont pu — Вони змогли прийти вчора ввечері.",
+      "Answer": "ont pu"
+    },
+    {
+      "Question": "Je [_____] (pouvoir) faire cet exercice.",
+      "Hint": "peux — Я можу зробити цю вправу.",
+      "Answer": "peux"
+    },
+    {
+      "Question": "Tu [_____] (pouvoir) sortir après le dîner.",
+      "Hint": "peux — Ти можеш вийти після вечері.",
+      "Answer": "peux"
+    },
+    {
+      "Question": "Il [_____] (pouvoir) parler anglais très bien.",
+      "Hint": "peut — Він дуже добре говорить англійською.",
+      "Answer": "peut"
+    },
+    {
+      "Question": "Nous [_____] (pouvoir) voyager cet été.",
+      "Hint": "pouvons — Ми можемо подорожувати цього літа.",
+      "Answer": "pouvons"
+    },
+    {
+      "Question": "Vous [_____] (pouvoir) comprendre cette phrase ?",
+      "Hint": "pouvez — Ви можете зрозуміти це речення?",
+      "Answer": "pouvez"
+    },
+    {
+      "Question": "Elles [_____] (pouvoir) entrer maintenant.",
+      "Hint": "peuvent — Вони можуть увійти зараз.",
+      "Answer": "peuvent"
+    }
+  ]
+}

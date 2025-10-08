@@ -1,0 +1,82 @@
+/* Базовые стили */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  transition: all 0.3s ease;
+}
+
+header, footer {
+  padding: 1rem;
+  background: var(--header-bg);
+  color: var(--header-text);
+}
+
+button, input, select {
+  padding: 0.5rem;
+  margin: 0.2rem 0;
+  border-radius: 5px;
+  border: 1px solid var(--border);
+  background: var(--button-bg);
+  color: var(--button-text);
+}
+
+section {
+  padding: 1rem;
+}
+
+#lang-switcher {
+  margin: 0.5rem 0;
+}
+
+#lang-select {
+  font-size: 1rem;
+  padding: 0.4rem 1rem;
+}
+
+/* ----------------- Темы ----------------- */
+
+/* UA — синий + жёлтый */
+body[data-theme="ua"] {
+  --bg: #fefefe;
+  --text: #00296b;
+  --header-bg: #ffd60a;
+  --header-text: #00296b;
+  --border: #003566;
+  --button-bg: #003566;
+  --button-text: #ffffff;
+}
+
+/* RU — красный + белый */
+body[data-theme="ru"] {
+  --bg: #ffffff;
+  --text: #a00000;
+  --header-bg: #d32f2f;
+  --header-text: #ffffff;
+  --border: #a00000;
+  --button-bg: #a00000;
+  --button-text: #ffffff;
+}
+
+/* EN — синий + красный */
+body[data-theme="en"] {
+  --bg: #f9f9f9;
+  --text: #002868;
+  --header-bg: #bf0a30;
+  --header-text: #ffffff;
+  --border: #002868;
+  --button-bg: #002868;
+  --button-text: #ffffff;
+}
+
+/* FR — синий + белый + красный */
+body[data-theme="fr"] {
+  --bg: #ffffff;
+  --text: #001f5b;
+  --header-bg: #0055a4;
+  --header-text: #ffffff;
+  --border: #ef4135;
+  --button-bg: #ef4135;
+  --button-text: #ffffff;
+}

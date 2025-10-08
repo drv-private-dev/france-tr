@@ -1,0 +1,244 @@
+{
+  "Part": [
+    {
+      "Question": "Est-ce que tu _____ à la question?",
+      "Hint": "réponds — Чи відповідаєш ти на питання?",
+      "Answer": "réponds"
+    },
+    {
+      "Question": "Elle _____ à la lettre.",
+      "Hint": "répond — Вона відповідає на лист.",
+      "Answer": "répond"
+    },
+    {
+      "Question": "Nous _____ au professeur.",
+      "Hint": "répondons — Ми відповідаємо вчителю.",
+      "Answer": "répondons"
+    },
+    {
+      "Question": "Vous _____ hier.",
+      "Hint": "avez répondu — Ви відповіли вчора.",
+      "Answer": "avez répondu"
+    },
+    {
+      "Question": "Ils _____ toujours vite.",
+      "Hint": "répondent — Вони завжди швидко відповідають.",
+      "Answer": "répondent"
+    },
+    {
+      "Question": "Je _____ au téléphone.",
+      "Hint": "réponds — Я відповідаю на телефон.",
+      "Answer": "réponds"
+    },
+    {
+      "Question": "Il _____ à son ami.",
+      "Hint": "répond — Він відповідає своєму другові.",
+      "Answer": "répond"
+    },
+    {
+      "Question": "Nous _____ à toutes les questions.",
+      "Hint": "avons répondu — Ми відповіли на всі запитання.",
+      "Answer": "avons répondu"
+    },
+    {
+      "Question": "Tu _____ au message?",
+      "Hint": "as répondu — Ти відповів на повідомлення?",
+      "Answer": "as répondu"
+    },
+    {
+      "Question": "Elles _____ avec le sourire.",
+      "Hint": "répondent — Вони відповідають з посмішкою.",
+      "Answer": "répondent"
+    },
+    {
+      "Question": "Vous _____ poliment.",
+      "Hint": "répondez — Ви відповідаєте ввічливо.",
+      "Answer": "répondez"
+    },
+    {
+      "Question": "J’_____ ce matin.",
+      "Hint": "ai répondu — Я відповів сьогодні вранці.",
+      "Answer": "ai répondu"
+    },
+    {
+      "Question": "Tu _____ le bus?",
+      "Hint": "attends — Ти чекаєш на автобус?",
+      "Answer": "attends"
+    },
+    {
+      "Question": "Nous _____ le professeur.",
+      "Hint": "attendons — Ми чекаємо на вчителя.",
+      "Answer": "attendons"
+    },
+    {
+      "Question": "Il _____ sa sœur.",
+      "Hint": "attend — Він чекає свою сестру.",
+      "Answer": "attend"
+    },
+    {
+      "Question": "Elles _____ à la gare.",
+      "Hint": "attendent — Вони чекають на вокзалі.",
+      "Answer": "attendent"
+    },
+    {
+      "Question": "J’_____ mes amis.",
+      "Hint": "attends — Я чекаю своїх друзів.",
+      "Answer": "attends"
+    },
+    {
+      "Question": "Vous _____ ici?",
+      "Hint": "attendez — Ви чекаєте тут?",
+      "Answer": "attendez"
+    },
+    {
+      "Question": "Nous _____ longtemps.",
+      "Hint": "avons attendu — Ми довго чекали.",
+      "Answer": "avons attendu"
+    },
+    {
+      "Question": "Ils _____ le résultat.",
+      "Hint": "ont attendu — Вони чекали на результат.",
+      "Answer": "ont attendu"
+    },
+    {
+      "Question": "Je n’_____ plus.",
+      "Hint": "attends — Я більше не чекаю.",
+      "Answer": "attends"
+    },
+    {
+      "Question": "As-tu _____ ton frère?",
+      "Hint": "as attendu — Ти чекав свого брата?",
+      "Answer": "as attendu"
+    },
+    {
+      "Question": "Elle a _____ devant l’école.",
+      "Hint": "a attendu — Вона чекала перед школою.",
+      "Answer": "attendu"
+    },
+    {
+      "Question": "Vous _____ le train?",
+      "Hint": "avez attendu — Ви чекали на потяг?",
+      "Answer": "avez attendu"
+    },
+    {
+      "Question": "Est-ce que tu _____ à la question?",
+      "Hint": "réponds — Чи відповідаєш ти на питання?",
+      "Answer": "réponds"
+    },
+    {
+      "Question": "Elle _____ à la lettre.",
+      "Hint": "répond — Вона відповідає на лист.",
+      "Answer": "répond"
+    },
+    {
+      "Question": "Nous _____ au professeur.",
+      "Hint": "répondons — Ми відповідаємо вчителю.",
+      "Answer": "répondons"
+    },
+    {
+      "Question": "Vous _____ hier.",
+      "Hint": "avez répondu — Ви відповіли вчора.",
+      "Answer": "avez répondu"
+    },
+    {
+      "Question": "Ils _____ toujours vite.",
+      "Hint": "répondent — Вони завжди швидко відповідають.",
+      "Answer": "répondent"
+    },
+    {
+      "Question": "Je _____ au téléphone.",
+      "Hint": "réponds — Я відповідаю на телефон.",
+      "Answer": "réponds"
+    },
+    {
+      "Question": "Il _____ à son ami.",
+      "Hint": "répond — Він відповідає своєму другові.",
+      "Answer": "répond"
+    },
+    {
+      "Question": "Nous _____ à toutes les questions.",
+      "Hint": "avons répondu — Ми відповіли на всі запитання.",
+      "Answer": "avons répondu"
+    },
+    {
+      "Question": "Tu _____ au message?",
+      "Hint": "as répondu — Ти відповів на повідомлення?",
+      "Answer": "as répondu"
+    },
+    {
+      "Question": "Elles _____ avec le sourire.",
+      "Hint": "répondent — Вони відповідають з посмішкою.",
+      "Answer": "répondent"
+    },
+    {
+      "Question": "Vous _____ poliment.",
+      "Hint": "répondez — Ви відповідаєте ввічливо.",
+      "Answer": "répondez"
+    },
+    {
+      "Question": "J’_____ ce matin.",
+      "Hint": "ai répondu — Я відповів сьогодні вранці.",
+      "Answer": "ai répondu"
+    },
+    {
+      "Question": "Tu _____ le bus?",
+      "Hint": "attends — Ти чекаєш на автобус?",
+      "Answer": "attends"
+    },
+    {
+      "Question": "Nous _____ le professeur.",
+      "Hint": "attendons — Ми чекаємо на вчителя.",
+      "Answer": "attendons"
+    },
+    {
+      "Question": "Il _____ sa sœur.",
+      "Hint": "attend — Він чекає свою сестру.",
+      "Answer": "attend"
+    },
+    {
+      "Question": "Elles _____ à la gare.",
+      "Hint": "attendent — Вони чекають на вокзалі.",
+      "Answer": "attendent"
+    },
+    {
+      "Question": "J’_____ mes amis.",
+      "Hint": "attends — Я чекаю своїх друзів.",
+      "Answer": "attends"
+    },
+    {
+      "Question": "Vous _____ ici?",
+      "Hint": "attendez — Ви чекаєте тут?",
+      "Answer": "attendez"
+    },
+    {
+      "Question": "Nous _____ longtemps.",
+      "Hint": "avons attendu — Ми довго чекали.",
+      "Answer": "avons attendu"
+    },
+    {
+      "Question": "Ils _____ le résultat.",
+      "Hint": "ont attendu — Вони чекали на результат.",
+      "Answer": "ont attendu"
+    },
+    {
+      "Question": "Je n’_____ plus.",
+      "Hint": "attends — Я більше не чекаю.",
+      "Answer": "attends"
+    },
+    {
+      "Question": "As-tu _____ ton frère?",
+      "Hint": "as attendu — Ти чекав свого брата?",
+      "Answer": "as attendu"
+    },
+    {
+      "Question": "Elle a _____ devant l’école.",
+      "Hint": "a attendu — Вона чекала перед школою.",
+      "Answer": "attendu"
+    },
+    {
+      "Question": "Vous _____ le train?",
+      "Hint": "avez attendu — Ви чекали на потяг?",
+      "Answer": "avez attendu"
+    }
+  ]
+}

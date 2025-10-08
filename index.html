@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Question Trainer / Тренажёр / Тренажер / Entraîneur de questions</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Стили -->
+  <link rel="stylesheet" href="./css/style.css" />
+</head>
+<body data-theme="ua">
+  <header>
+    <h1 id="app-title">Тренажер питань</h1>
+
+    <!-- Переключатель языка -->
+    <div id="lang-switcher">
+      <label for="lang-select">Мова / Язык / Language / Langue:</label>
+      <select id="lang-select">
+      <option value="ua" selected>🇺🇦 Українська</option>
+      <option value="ru">🇷🇺 Русский</option>
+      <option value="en">🇬🇧 English</option>
+      <option value="fr">🇫🇷 Français</option>
+      </select>
+    </div>
+  </header>
+
+  <main>
+    <!-- Выбор JSON-файла -->
+    <section id="loader-section">
+      <label id="file-label" for="file-input">Завантажте файл із завданнями (JSON):</label>
+      <input type="file" id="file-input" accept=".json" />
+    </section>
+
+    <!-- Сообщения (об ошибках/статусе) -->
+    <section id="status-section" aria-live="polite" role="status">
+      <p id="status-message"></p>
+    </section>
+
+    <!-- Заголовок выбранной темы -->
+    <section id="meta-section">
+      <h2 id="topic"></h2>
+      <h3 id="unit"></h3>
+    </section>
+
+    <!-- Контейнер для всех вопросов -->
+    <section id="questions"></section>
+  </main>
+
+  <footer>
+    <p id="footer-text">© 2025 Тренажер. Для тестування JSON-файлів.</p>
+  </footer>
+
+  <!-- Основной скрипт (ES6-модуль) -->
+  <script type="module" src="./js/app.js"></script>
+</body>
+</html>
